@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#141465)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#141465&height=160)
 
 <div align=center>
 🎯Skills🎯<br><br>
@@ -26,3 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Daryu-Kim&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daryu-Kim&layout=compact">
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=#141465&height=160&rotate=180)
