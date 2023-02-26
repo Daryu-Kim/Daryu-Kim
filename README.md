@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=160&text=Welcome%20to%20Won%20Jae%20Kim's%20GitHub%20Pages!&color=0:330867,100:30cfd0&fontSize=36&fontColor=fff)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=160&text=Welcome%20to%20Won%20Jae%20Kim's%20GitHub%20Pages!&color=0:330867,100:30cfd0&fontSize=36&fontColor=fff" />
 
 <div>
-  <h1>HI!</h1>
-  
+  <h1>🖐️Introduce Myself🖐️</h1>
+  <p>
+    안녕하세요, 현재 5년차 미드레벨을 달리고 있는 풀스택 & 어플리케이션 개발자입니다!<br/>
+    항상 문제 해결과 협업을 위한 공부 및 경험을 끊임없이 하고 있으며, 하루하루 새로운 지식을 찾아 배워나가는 것을 좋아합니다:)<br/>
+    언제든 따끔한 지적은 환영입니다!
+  </p>
   <h1>📄GitHub Summary📄</h1>
   <div align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Daryu-Kim&show_icons=true">
