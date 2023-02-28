@@ -7,6 +7,13 @@
     항상 문제 해결과 협업을 위한 공부 및 경험을 끊임없이 하고 있으며, 하루하루 새로운 지식을 찾아 배워나가는 것을 좋아합니다:)<br/>
     언제든 따끔한 지적은 환영입니다!
   </p>
+  <p>
+    Hello, I'm a full stack and application developer who is currently running the 5th year of mid-level!
+<br/>
+I am constantly studying and experiencing problem solving and collaboration, and I like to find new knowledge every day.:)
+<br/>
+We always welcome harsh comments!
+  </p>
   <h1>📄GitHub Summary📄</h1>
   <div align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Daryu-Kim&show_icons=true">
