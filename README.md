@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=160&text=Welcome%20to%20Won%20Jae%20Kim's%20GitHub%20Pages!&color=0:330867,100:30cfd0&fontSize=36&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&text=Welcome%20to%20Won%20Jae%20Kim's%20GitHub%20Pages!&color=0:330867,100:30cfd0&fontSize=36&fontColor=fff" />
 
 <div>
   <h1>🖐️Introduce Myself🖐️</h1>
