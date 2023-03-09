@@ -32,8 +32,9 @@ We always welcome harsh comments!
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white" /> <br/>
-  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white" />
   <img src="https://img.shields.io/badge/NativeScript-65ADF1?style=for-the-badge&logo=NativeScript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Polymer-FF4470?style=for-the-badge&logo=Polymer Project&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white" />
   <h2>Back-End</h2>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" /> 
