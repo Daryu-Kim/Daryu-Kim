@@ -18,7 +18,7 @@ We always welcome harsh comments!
   <div align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Daryu-Kim&show_icons=true">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daryu-Kim&layout=compact">
-  <br/><img width="95%" src="https://github-profile-trophy.vercel.app/?username=Daryu-Kim">
+  <br/><img width="95%" src="https://github-profile-trophy.vercel.app/?username=Daryu-Kim&row=1">
   <br/><img width="25%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaryu-Kim&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
   </div>
   
