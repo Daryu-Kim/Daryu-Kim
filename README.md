@@ -3,7 +3,7 @@
 <div>
   <h1>🖐️Introduce Myself🖐️</h1>
   <p>
-    안녕하세요, 현재 5년차 미드레벨을 달리고 있는 풀스택 & 어플리케이션 개발자입니다!<br/>
+    안녕하세요, 현재 6년차 미드레벨을 달리고 있는 풀스택 & 어플리케이션 개발자입니다!<br/>
     항상 문제 해결과 협업을 위한 공부 및 경험을 끊임없이 하고 있으며, 하루하루 새로운 지식을 찾아 배워나가는 것을 좋아합니다:)<br/>
     언제든 따끔한 지적은 환영입니다!
   </p>
@@ -31,7 +31,6 @@ We always welcome harsh comments!
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
   <h2>Back-End</h2>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" /> 
@@ -42,11 +41,9 @@ We always welcome harsh comments!
   <h2>Server-Side-Rendering Framework</h2>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <h2>SQL</h2>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <h2>Version Control</h2>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
@@ -58,13 +55,9 @@ We always welcome harsh comments!
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <h2>VR Game Development</h2>
-  <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <h2>Deployment</h2>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=black" />
   <h2>Environment</h2>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
@@ -87,6 +80,21 @@ We always welcome harsh comments!
       CPU: Intel Core i5 12400
     </li>
     <li>
+      RAM: DDR4 3200Mhz 32GB * 4 = 128GB
+    </li>
+    <li>
+      VGA: Intel Arc Graphics A770
+    </li>
+    <li>
+      OS: WINDOWS 11 Home 64Bit (Build.22621)
+    </li>
+  </ul>
+  <h2>2. Sub PC</h2>
+  <ul>
+    <li>
+      CPU: AMD Ryzen 7 1700
+    </li>
+    <li>
       RAM: DDR4 3200Mhz 16GB * 2 = 32GB
     </li>
     <li>
@@ -96,25 +104,10 @@ We always welcome harsh comments!
       OS: WINDOWS 11 Home 64Bit (Build.22621)
     </li>
   </ul>
-  <h2>2. Sub PC</h2>
-  <ul>
-    <li>
-      CPU: AMD Ryzen 5 1600
-    </li>
-    <li>
-      RAM: DDR4 3200Mhz 16GB
-    </li>
-    <li>
-      VGA: NVIDIA Geforce GTX 1060 6GB
-    </li>
-    <li>
-      OS: WINDOWS 11 Home 64Bit (Build.22621)
-    </li>
-  </ul>
   <h2>3. Main Laptop</h2>
   <ul>
     <li>
-      CPU: Intel Core i5 1240P
+      CPU: Intel Core i5 12500H
     </li>
     <li>
       RAM: DDR5 5200Mhz 16GB
