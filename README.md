@@ -3,12 +3,12 @@
 <div>
   <h1>🖐️Introduce Myself🖐️</h1>
   <p>
-    안녕하세요, 현재 6년차 미드레벨을 달리고 있는 풀스택 & 어플리케이션 개발자입니다!<br/>
+    안녕하세요, 현재 7년차 미드레벨을 달리고 있는 풀스택 & 어플리케이션 개발자입니다!<br/>
     항상 문제 해결과 협업을 위한 공부 및 경험을 끊임없이 하고 있으며, 하루하루 새로운 지식을 찾아 배워나가는 것을 좋아합니다:)<br/>
     언제든 따끔한 지적은 환영입니다!
   </p>
   <p>
-    Hello, I'm a full stack and application developer who is currently running the 5th year of mid-level!
+    Hello, I'm a full stack and application developer who is currently running the 7th year of mid-level!
 <br/>
 I am constantly studying and experiencing problem solving and collaboration, and I like to find new knowledge every day.:)
 <br/>
@@ -77,46 +77,31 @@ We always welcome harsh comments!
   <h2>1. Main PC</h2>
   <ul>
     <li>
-      CPU: Intel Core i5 12400
+      CPU: AMD Ryzen 5 5600
     </li>
     <li>
-      RAM: DDR4 3200Mhz 32GB * 4 = 128GB
+      RAM: DDR4 3600Mhz 16GB * 2 = 32GB
     </li>
     <li>
-      VGA: Intel Arc Graphics A770
+      VGA: NVIDIA Geforce GTX 1080 8GB OC
     </li>
     <li>
-      OS: WINDOWS 11 Home 64Bit (Build.22621)
-    </li>
-  </ul>
-  <h2>2. Sub PC</h2>
-  <ul>
-    <li>
-      CPU: AMD Ryzen 7 1700
-    </li>
-    <li>
-      RAM: DDR4 3200Mhz 16GB * 2 = 32GB
-    </li>
-    <li>
-      VGA: Radeon RX 6600 8GB
-    </li>
-    <li>
-      OS: WINDOWS 11 Home 64Bit (Build.22621)
+      OS: WINDOWS 11 Pro 64Bit
     </li>
   </ul>
   <h2>3. Main Laptop</h2>
   <ul>
     <li>
-      CPU: Intel Core i5 12500H
+      CPU: Intel Core i5 5300U
     </li>
     <li>
-      RAM: DDR5 5200Mhz 16GB
+      RAM: DDR3L 1600Mhz 8GB * 2 = 16GB
     </li>
     <li>
-      VGA: Intel Iris Xe Graphics
+      VGA: Intel HD Graphics 5500
     </li>
     <li>
-      OS: WINDOWS 11 Home 64Bit (Build.22621)
+      OS: WINDOWS 11 LTSC 64bit
     </li>
   </ul>
 
