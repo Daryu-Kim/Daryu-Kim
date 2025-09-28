@@ -1,18 +1,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&text=Welcome%20to%20Won%20Jae%20Kim's%20GitHub%20Pages!&color=0:330867,100:30cfd0&fontSize=36&fontColor=fff" />
 
 <div>
-  <h1>🖐️Introduce Myself🖐️</h1>
+  <h1>🛠️ Senior Full Stack Developer | Founder & CEO | Problem Solver 🛠️</h1>
   <p>
-    안녕하세요, 현재 7년차 미드레벨을 달리고 있는 풀스택 & 어플리케이션 개발자입니다!<br/>
-    항상 문제 해결과 협업을 위한 공부 및 경험을 끊임없이 하고 있으며, 하루하루 새로운 지식을 찾아 배워나가는 것을 좋아합니다:)<br/>
-    언제든 따끔한 지적은 환영입니다!
+    안녕하세요, **7년 이상의 실무 경험**을 바탕으로 다양한 스타트업 제품을 직접 기획, 설계, 개발해온 **시니어 풀스택 개발자(Senior Full Stack Developer)**입니다.<br>
+    현재는 기술 기반 스타트업의 **대표(Founder & CEO)**로서, 제품과 기술 전반을 책임지고 있습니다.<br><br>
+    문제를 빠르게 정의하고, 기술을 통해 현실적인 해결책을 만들어내는 것을 중요하게 생각합니다.<br>
+    프론트엔드부터 백엔드, 인프라, 운영까지 **End-to-End 책임**을 지는 개발 문화를 지향하며, **제품 중심(Product-minded)** 사고방식으로 실제 사용자에게 가치를 전달하는 데 집중합니다.
   </p>
+  <hr>
   <p>
-    Hello, I'm a full stack and application developer who is currently running the 7th year of mid-level!
-<br/>
-I am constantly studying and experiencing problem solving and collaboration, and I like to find new knowledge every day.:)
-<br/>
-We always welcome harsh comments!
+    Hello! I'm a **Senior Full Stack Developer** and **Founder & CEO** with **over 7 years of hands-on experience** building and leading full-stack products in startup environments.<br>
+    As the CEO, I take full ownership of product strategy, development, and operations.<br><br>
+    With a strong product mindset and problem-solving approach, I strive to build software that not only works but truly delivers value to users.
   </p>
   <h1>📄GitHub Summary📄</h1>
   <div align="center">
@@ -56,17 +56,9 @@ We always welcome harsh comments!
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
   <h2>Deployment</h2>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <h2>Environment</h2>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" /> <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=Microsoft Office&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
   <h2>Other Languages</h2>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/Cpp-0769AD?style=for-the-badge&logo=Cpp&logoColor=white" />
